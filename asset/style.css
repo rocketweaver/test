@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap');
+
+* {
+    font-family: 'Just Me Again Down Here', 'Times New Roman', Times, serif;
+}
+
+section {
+    padding: 40px;
+}
+
+#pink {
+    background-image: url('img/bg.svg');
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-position: center; 
+    background-repeat: no-repeat;
+}
